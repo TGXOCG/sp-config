@@ -14,7 +14,7 @@ zuul:
   retryable: true
 
 #  routes:
-#    item-service: /item-service/**
+#   a item-service: /item-service/**
 #    user-service: /user-service/**
 #    order-service: /order-service/**
 management:
